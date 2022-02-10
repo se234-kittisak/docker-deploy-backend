@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   backend:
-    images: kittisak0501/234-deploylab-backend:latest
+    image: kittisak0501/234-deploylab-backend:latest
     ports:
       - "8085:8080"
